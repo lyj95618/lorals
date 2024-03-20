@@ -32,7 +32,7 @@ PROJECT_URLS: Dict[str, str] = {
 }
 
 #   Set version information
-VERSION = ""
+VERSION = "0.1.0"
 
 #   Classifiers
 CLASSIFIERS: List[str] = [
